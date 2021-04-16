@@ -25,15 +25,9 @@
 <a href="mailto:mauriarrechea@gmail.com" target="_blank" rel="noopener noreferrer">
 	<img alt="Mauricio Arrechea's Gmail"  src="https://img.shields.io/badge/mauriarrechea%20-%23E4405F.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
 </div>
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
 <div align="center">
 
 [![marreche's 42 stats](https://badge42.herokuapp.com/api/stats/marreche?darkmode=true&cursus=cursus)](https://github.com/Marreche/badge42)
