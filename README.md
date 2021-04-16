@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mauricio Arrechea. I'm a student at 42 Madrid learning to become a programmer. Welcome to my github! <br>
+### Hi there 👋, I'm Mauricio Arrechea. I'm a student at 42 Madrid. Welcome to my github! <br>
 
 
  <h1>SOCIALS: </h1> 
