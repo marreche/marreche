@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Mauricio Arrechea. I'm a student at 42 Madrid. Welcome to my github! <br>
 
 
- <h1>SOCIALS: </h1> 
- <br>
-
+ 
 <div align="center">
 	
 <a href="https://www.linkedin.com/in/mauricioarrechea/" target="_blank" rel="noopener noreferrer">
@@ -11,8 +9,6 @@
 </a>
 </div>
 
-
-<h1>CONTACT:</h1> <br>
 <div align="center">
 <a href="mailto:mauriarrechea@gmail.com" target="_blank" rel="noopener noreferrer">
 	<img alt="Mauricio Arrechea's Gmail"  src="https://img.shields.io/badge/mauriarrechea%20-%23E4405F.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
