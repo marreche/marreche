@@ -3,7 +3,6 @@
 
  
 <div align="center">
-	
 <a href="https://www.linkedin.com/in/mauricioarrechea/" target="_blank" rel="noopener noreferrer">
   <img alt="Mauricio Arrechea's LinkedIN" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
