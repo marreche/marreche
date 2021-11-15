@@ -17,7 +17,8 @@
 <br>
 <div align="center">
 
-[![codewars badge](https://www.codewars.com/users/marreche/badges/large)](https://www.codewars.com/users/marreche)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marreche&layout=compact)
 </div>
+
+[![codewars badge](https://www.codewars.com/users/marreche/badges/large)](https://www.codewars.com/users/marreche)
