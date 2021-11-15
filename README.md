@@ -10,7 +10,7 @@
 
 <div align="center">
 <a href="mailto:mauriarrechea@gmail.com" target="_blank" rel="noopener noreferrer">
-	<img alt="Mauricio Arrechea's Gmail"  src="https://img.shields.io/badge/mauriarrechea%20-%23E4405F.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+	<img alt="Mauricio Arrechea's Gmail"  src="https://img.shields.io/badge/Mauricio Arrechea%20-%23E4405F.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
 </div>
 <br>
 <br>
