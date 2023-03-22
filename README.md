@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Mauricio Arrechea. I'm an upcoming Data Analyst and student at 42 Madrid. Welcome to my github! <br>
+### Hi there 👋, I'm Mauricio Arrechea. I'm currently working as a Cloud Security Engineer, so I'm focused on everything Security in the Cloud! 
+I have 2 years experience with Cloud technologies, and 1 year experience working as a Data Engineer <br>
 
 
  
